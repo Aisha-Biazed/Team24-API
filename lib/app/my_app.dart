@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:markaz_elamal_app/core/routes/app_router.dart';
-import 'package:markaz_elamal_app/core/utils/app_colors.dart';
+import 'package:markaz_elamal_app/core/helper/utils/app_colors.dart';
 
 class MarkazElAmal extends StatelessWidget {
   const MarkazElAmal({super.key});

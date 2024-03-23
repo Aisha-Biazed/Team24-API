@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 import 'package:markaz_elamal_app/core/routes/routes.dart';
-import 'package:markaz_elamal_app/core/utils/app_assets.dart';
+import 'package:markaz_elamal_app/core/helper/utils/app_assets.dart';
 
 class SplashView extends StatefulWidget {
   const SplashView({super.key});
